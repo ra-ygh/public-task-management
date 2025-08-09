@@ -1,0 +1,13 @@
+{
+  "name": "個人用タスク管理ツール",
+  "description": "ToDoリスト、チェックリスト、買い物リスト、その他メモといった使い方も可能！タスクをどんどん追加し、どんどん削除していくための無料Webツールです。",
+  "theme_color": "#1976d2",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
